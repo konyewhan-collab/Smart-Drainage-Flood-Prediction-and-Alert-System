@@ -35,7 +35,7 @@ class SensorDataController extends Controller
 
         // --- 4. TELEGRAM ALERT LOGIC ---
         $botToken = "8775597783:AAFdXXkArceBuFkzkyagd74reY6rEFuTnvE";
-        $chatId = "1695595258";
+        $chatId = "@drainagefloodalert";
         //@drainagefloodalert,1695595258
 
         // Only trigger if it is a dangerous status AND the status just changed
