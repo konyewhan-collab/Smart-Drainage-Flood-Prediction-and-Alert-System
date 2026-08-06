@@ -1,5 +1,5 @@
-Featured Projects
-Drainage Flood Prediction System
+#Featured Projects
+#Drainage Flood Prediction System
 Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 microcontrollers with ultrasonic and water flow sensors to capture real-time environmental data. Built a centralized web dashboard using Laravel to visualize the data and implemented automated Telegram alerts for critical water levels.
 
 <img width="1906" height="1007" alt="Screenshot 2026-06-18 010526" src="https://github.com/user-attachments/assets/80a1dc5c-d205-423d-b968-4102b2148b46" />
