@@ -36,7 +36,7 @@ class SensorDataController extends Controller
         // --- 4. TELEGRAM ALERT LOGIC ---
         $botToken = "/*the bot token put here*/";
         $chatId = "/*chat id put here*/";
-
+        //get bot token in telegram bot
         // Only trigger if it is a dangerous status AND the status just changed
         if (in_array($currentStatus, ['FLOOD ALERT', 'CRITICAL ALERT', 'BLOCKAGE ALERT']) && $currentStatus !== $previousStatus) {
 
