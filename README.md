@@ -7,7 +7,9 @@ Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 
 <img width="1872" height="1037" alt="Screenshot 2026-06-18 135253" src="https://github.com/user-attachments/assets/c70b6c47-7b36-411d-bdb5-62a8be47c4ee" />
 <img width="1641" height="842" alt="Screenshot 2026-06-18 190123" src="https://github.com/user-attachments/assets/6ce1691f-001b-4aeb-b317-6cdf8dcf86e5" />
 <img width="983" height="705" alt="image" src="https://github.com/user-attachments/assets/6bd51f47-bd55-4ba6-9e3e-9903db7f6fe3" />
+<img width="938" height="923" alt="image" src="https://github.com/user-attachments/assets/60b39d38-8528-47d5-a74a-03cc25a704a4" />
 
+<br>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
