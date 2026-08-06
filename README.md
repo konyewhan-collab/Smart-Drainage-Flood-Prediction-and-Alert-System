@@ -1,3 +1,13 @@
+Featured Projects
+Drainage Flood Prediction System
+Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 microcontrollers with ultrasonic and water flow sensors to capture real-time environmental data. Built a centralized web dashboard using Laravel to visualize the data and implemented automated Telegram alerts for critical water levels.
+
+<img width="1906" height="1007" alt="Screenshot 2026-06-18 010526" src="https://github.com/user-attachments/assets/80a1dc5c-d205-423d-b968-4102b2148b46" />
+<img width="1897" height="1031" alt="Screenshot 2026-06-18 012719" src="https://github.com/user-attachments/assets/0b08e774-a409-405c-ae73-498941ec3d23" />
+<img width="1872" height="1037" alt="Screenshot 2026-06-18 135253" src="https://github.com/user-attachments/assets/c70b6c47-7b36-411d-bdb5-62a8be47c4ee" />
+<img width="1641" height="842" alt="Screenshot 2026-06-18 190123" src="https://github.com/user-attachments/assets/6ce1691f-001b-4aeb-b317-6cdf8dcf86e5" />
+<img width="983" height="705" alt="image" src="https://github.com/user-attachments/assets/6bd51f47-bd55-4ba6-9e3e-9903db7f6fe3" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
