@@ -2,6 +2,13 @@
 # Drainage Flood Prediction and Alert System
 Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 microcontrollers with ultrasonic and water flow sensors to capture real-time environmental data. Built a centralized web dashboard using Laravel to visualize the data and implemented automated Telegram alerts for critical water levels.
 
+## System Features
+
+*   **Real-Time Web Dashboard:** A centralized, custom-built Laravel web application that visualizes live sensor data, allowing administrators to continuously monitor water levels and flow rates across the drainage network.
+*   **Automated Telegram Alerts:** The system evaluates sensor logic in real-time and instantly pushes automated warning messages via Telegram to relevant personnel when abnormal water levels or potential blockages are detected.
+*   **Live Node Mapping:** Utilizing the integrated GPS module, the dashboard maps the exact geographical coordinates of each hardware node, enabling rapid and precise dispatch of maintenance teams to problem areas.
+*   **Early Blockage Detection:** By simultaneously analyzing water flow velocity and water level distance, the system identifies early signs of drainage blockages before severe flooding can occur.
+
 <img width="1906" height="1007" alt="Screenshot 2026-06-18 010526" src="https://github.com/user-attachments/assets/80a1dc5c-d205-423d-b968-4102b2148b46" />
 <img width="1897" height="1031" alt="Screenshot 2026-06-18 012719" src="https://github.com/user-attachments/assets/0b08e774-a409-405c-ae73-498941ec3d23" />
 <img width="1872" height="1037" alt="Screenshot 2026-06-18 135253" src="https://github.com/user-attachments/assets/c70b6c47-7b36-411d-bdb5-62a8be47c4ee" />
