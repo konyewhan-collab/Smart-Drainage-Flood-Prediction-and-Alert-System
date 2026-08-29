@@ -1,5 +1,5 @@
 # Featured Projects
-# Drainage Flood Prediction and Alert System
+# Smart Drainage Flood Prediction and Alert System
 Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 microcontrollers with ultrasonic and water flow sensors to capture real-time environmental data. Built a centralized web dashboard using Laravel to visualize the data and implemented automated Telegram alerts for critical water levels.
 
 ## System Features
@@ -10,10 +10,15 @@ Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 
 *   **Early Blockage Detection:** By simultaneously analyzing water flow velocity and water level distance, the system identifies early signs of drainage blockages before severe flooding can occur.
 
 <img width="1906" height="1007" alt="Screenshot 2026-06-18 010526" src="https://github.com/user-attachments/assets/80a1dc5c-d205-423d-b968-4102b2148b46" />
+
 <img width="1897" height="1031" alt="Screenshot 2026-06-18 012719" src="https://github.com/user-attachments/assets/0b08e774-a409-405c-ae73-498941ec3d23" />
+
 <img width="1872" height="1037" alt="Screenshot 2026-06-18 135253" src="https://github.com/user-attachments/assets/c70b6c47-7b36-411d-bdb5-62a8be47c4ee" />
+
 <img width="1641" height="842" alt="Screenshot 2026-06-18 190123" src="https://github.com/user-attachments/assets/6ce1691f-001b-4aeb-b317-6cdf8dcf86e5" />
+
 <img width="983" height="705" alt="image" src="https://github.com/user-attachments/assets/6bd51f47-bd55-4ba6-9e3e-9903db7f6fe3" />
+
 <img width="938" height="923" alt="image" src="https://github.com/user-attachments/assets/60b39d38-8528-47d5-a74a-03cc25a704a4" />
 
 <br>
